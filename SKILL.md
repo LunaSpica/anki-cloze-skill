@@ -65,4 +65,4 @@
 
 # 使用方式
 
-将本 skill 安装到 ZCode / Claude Code 中后，直接输入你想制卡的知识内容（如某节文档、某段笔记），并说明「请把本节知识点制作成 Anki Cloze Note」，即可获得按上述原则生成的制卡结果。
+将本 skill 安装到 Codex / ZCode / Claude Code 中后，直接输入你想制卡的知识内容（如某节文档、某段笔记），并说明「请把本节知识点制作成 Anki Cloze Note」，即可获得按上述原则生成的制卡结果。
