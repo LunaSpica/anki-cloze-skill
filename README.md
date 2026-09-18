@@ -24,7 +24,7 @@ Text | Example | Tag
 
 将本目录（含 `SKILL.md`）放入你的 agent skill 目录，例如：
 
-- ZCode / Claude Code：`~/.agents/skills/anki-cloze-skill/`
+- Codex / ZCode / Claude Code：`~/.agents/skills/anki-cloze-skill/`
 
 ## 使用
 
