@@ -30,7 +30,7 @@ Text | Example | Tag
 
 安装后对 agent 说：
 
-> 以下是我今天阅读的一小节文档，请你把本节知识点制作成 Anki Cloze Note。
+> 以下是我今天学习的一小节文档，请你把本节知识点制作成 Anki Cloze Note。
 > （附上文档内容）
 
 即可获得可直接导入 Anki 的 Cloze 制卡结果。
