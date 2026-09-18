@@ -14,7 +14,7 @@ description: Use when the user wants to turn knowledge content (documentation, l
 ## 1. Anki Cloze 原则
 
 - 每种 Cloze 只考察一个知识点（最小信息原则）
-- Note 脱离原文文仍能独立理解（上下文独立）
+- Note 脱离原文仍能独立理解（上下文独立）
 - 优先主动回忆，而非依赖上下文猜测答案
 
 ## 2. 正确认识 Note 与 Card
