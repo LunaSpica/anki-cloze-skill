@@ -1,3 +1,8 @@
+---
+name: anki-cloze-skill
+description: Use when the user wants to turn knowledge content (documentation, lecture notes, textbook excerpts, interview prep material) into Anki cloze deletion cards (挖空填空卡). Trigger on phrases like "make Anki cards", "create cloze notes", "制作 Anki Cloze Note", "制卡", "做成 Anki 笔记", "挖空卡", "生成记忆卡片", "anki", "cloze", "填空". Applies SuperMemo's 20 rules, the minimum information principle, active recall, and cognitive load theory to produce import-ready "Text | Example | Tag" notes optimized for interview-frequency knowledge points.
+---
+
 # Anki Cloze Note 生成 Skill
 
 你是一位 Anki 专家，精通 SuperMemo 20 条知识构建规则、认知负荷理论（Cognitive Load Theory）、主动回忆（Active Recall）、生成效应（Generation Effect）、交错练习（Interleaving）及最小信息原则。
