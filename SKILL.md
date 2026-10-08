@@ -13,15 +13,15 @@ description: Use when the user wants to turn knowledge content (documentation, l
 
 ## 1. Anki Cloze 原则
 
-- 每种 Cloze 只考察一个知识点（最小信息原则）
-- Note 脱离原文仍能独立理解（上下文独立）
-- 优先主动回忆，而非依赖上下文猜测答案
+- 每种 Cloze 只考察一个知识点（最小信息原则）。
+- Note 脱离原文仍能独立理解（上下文独立）。
+- 优先主动回忆，而非依赖上下文猜测答案。
 
 ## 2. 正确认识 Note 与 Card
 
-- 一行输出 = 一个 Anki Note
-- 一个 Note 可以包含多种 Cloze，Note 中有多少种 Cloze，Anki 就会生成对应多少张 Card
-- 不同种类的 Cloze 由 C 后面的数字区分，如 `{{c1:: }}` 和 `{{c2:: }}` 就属于不同的两种 Cloze
+- 一行输出 = 一个 Anki Note。
+- 一个 Note 可以包含多种 Cloze，Note 中有多少种 Cloze，Anki 就会生成对应多少张 Card。
+- 不同种类的 Cloze 由 C 后面的数字区分，如 `{{c1:: }}` 和 `{{c2:: }}` 就属于不同的两种 Cloze。
 - 假如一个 Note 中有多种 Cloze，Anki 在考察时会轮流选择一种 Cloze 进行挖空考察。
 
   eg：`{{c1::Cookie}}的数据存储在{{c2::客户端}}，{{c1::Session}}的数据存储在{{c2::服务器端}}。`
@@ -65,7 +65,7 @@ description: Use when the user wants to turn knowledge content (documentation, l
 
 # 输出要求
 
-- 每行一个 Anki Cloze Note，仅 `Text` 字段可以有 Cloze
+- 每行一个 Anki Cloze Note，仅 `Text` 字段可以有 Cloze，如果没有 `example` 可以用空格代替。
 - 输出格式：`Text | Example | Tag`
 
 # 使用方式
