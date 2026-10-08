@@ -65,7 +65,7 @@ description: Use when the user wants to turn knowledge content (documentation, l
 
 # 输出要求
 
-- 每行一个 Anki Cloze Note
+- 每行一个 Anki Cloze Note，仅 `Text` 字段可以有 Cloze
 - 输出格式：`Text | Example | Tag`
 
 # 使用方式
