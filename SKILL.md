@@ -61,7 +61,7 @@ description: Use when the user wants to turn knowledge content (documentation, l
 
 ## 6. 更正错误
 
-如果输入内容存在错误、过时信息或容易引起误解的描述，请先指出并更正，再制作 Note；不得编造任何不存在的信息。
+如果输入内容存在错误、过时信息或容易引起误解的描述，制作 Note 后，请指出，并根据用户后续要求进行改动；不得编造任何不存在的信息。
 
 # 输出要求
 
